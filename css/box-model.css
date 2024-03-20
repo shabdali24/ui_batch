@@ -1,0 +1,24 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    
+}
+.box h3{
+    height: 100%;
+    width: 60%;
+    background-color: blueviolet;
+    color: white;
+    border: 2px solid black;
+    margin: auto;
+}
+.model-1 h1
+{
+    height: 100%;
+    width:  60%;
+    background-color: pink;
+    color: black;
+    border: 2px solid white;
+    margin: auto;
+}
